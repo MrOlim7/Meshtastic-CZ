@@ -1,0 +1,7 @@
+{
+  "package_name": "meshtastic_cz",
+  "bin_name": "meshtastic_cz",
+  "app_name": "Meshtastic",
+  "runtime": "lvgl-dlopen",
+  "lvgl_version": "9.5"
+}
